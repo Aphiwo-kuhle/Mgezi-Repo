@@ -2,13 +2,13 @@
 This website provide information to website developers thouse who like to solve problems and like to learn new things .
 Especially the the beginners would need this.
 
-###Code experiance
+Code experiance
 
 -no code experiance
 
 -computer experiance
 
-###Projects
+Projects
 
 -project 1😎
 
